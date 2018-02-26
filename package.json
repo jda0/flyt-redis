@@ -11,7 +11,7 @@
     "coffee-script": "^1.9.2",
     "express": "~4.12.3",
     "ioredis": "~1.7.0",
-    "moment": "~2.10.2",
+    "moment": "~2.11.2",
     "validator": "~3.41.2"
   },
   "devDependencies": {
